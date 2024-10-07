@@ -18,6 +18,7 @@ class Config(object):
         'https://rutracker.org',
         'https://rutracker.net',
         'https://rutracker.nl',
+        'https://rutracker.me',
     ]
 
     # Configurable list of RuTracker API mirrors
